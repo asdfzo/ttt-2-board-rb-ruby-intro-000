@@ -1,6 +1,5 @@
 # array variables
-board = Array.new()
-board = [" ", " ", " "," ", " ", " ", " ", " "]
+board = Array.new[" ", " ", " "," ", " ", " ", " ", " "]
 # Position 1: Left
 board[0]
 # Position 2: Middle
