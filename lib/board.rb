@@ -19,7 +19,7 @@ row[7]
 #Position 9: Bottom Right
 row[8]
 
-#board design
+# design
 puts "\n  #{row[0]}  | #{row[1]}  | #{row[2]}  |
 \n-----------------\n  #{row[3]}  | #{row[4]}  | #{row[5]}  |
 \n-----------------\n  #{row[6]}  | #{row[7]}  | #{row[8]}  |   "
