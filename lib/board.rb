@@ -1,4 +1,5 @@
 # array variables
+board = Array.new(8)
 board = [" ", " ", " "," ", " ", " ", " ", " "]
 # Position 1: Left
 board[0]
