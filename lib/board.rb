@@ -1,5 +1,5 @@
 # array variables
-row.new = [" ", " ", " "," ", " ", " ", " ", " "]
+row = [" ", " ", " "," ", " ", " ", " ", " "]
 # Position 1: Left
 row[0]
 # Position 2: Middle
